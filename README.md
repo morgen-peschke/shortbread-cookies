@@ -1,6 +1,8 @@
 Shortbread Cookie Recipe
 ========================
 
+[TL;DR](./TLDR.md)
+
 Time Investment
 ---------------
 

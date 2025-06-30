@@ -139,6 +139,8 @@ Once cut, place the cookie on the baking sheet, and use a fork or other pointy o
 
 ![A fork being used to poke four holes in a cookie on the sheet, other cookies on the sheet already have holes](./photos/poke.jpg)
 
+Any extra dough should go back in the fridge until it's time to cut out the next batch. The dough is easier to work with when it's a bit chilly.
+
 ### And ... Bake!
 
 Once the oven is ready, put the cookie sheet(s) in the oven.
@@ -165,6 +167,9 @@ Let the cookies rest on the sheet for about 5 minutes, then move to a cooling ra
 
 > [!TIP]
 > Sometimes they won't want to leave the baking sheet, and a gentle twist can separate them without damaging the cookie.
+
+> [!TIP]
+> You do not need to let the baking sheet cool down if you're doing multiple batches, once the last batch has had their 5 minutes and have been moved to the racks, you can immediately put the next batch in.
 
 ### Storage
 
